@@ -1,4 +1,4 @@
-# projetocarteira
+# Projeto Carteira
 
 Este projeto é destinado para cada usuário conseguir acompanhar a sua evolução ao economizar dinheiro. Não existe um tempo definido para completar a sua meta, mas neste projeto você consegue definir uma meta que é o quanto você quer juntar e existem uma série de números para serem preenchidos. 
 
