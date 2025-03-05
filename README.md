@@ -14,6 +14,8 @@ Neste KPI conseguimos acompanhar quanto foi acumulado baseado nos números selec
 # Seleção dos Números
 ![image](https://github.com/user-attachments/assets/4046f893-fa36-4630-a52d-8f1266709ad8)
 
-Aqui é onde ficam os números para seleção, é possivel navegar pelos números através dos filtros acima, para facilitar a navegação entre eles. Ao clicar no ícone de ℹ️, podemos acompanhar os números que foram selecionados e quais faltam para preencher.
+Aqui é onde ficam os números para seleção, é possivel navegar pelos números através dos filtros acima, para facilitar a navegação entre eles. 
+Ao clicar no ícone de ℹ️, podemos acompanhar os números que foram selecionados e quais faltam para preencher.
+
 ![image](https://github.com/user-attachments/assets/c7827ac1-c992-4d5f-a547-ecec7974ac8f)
 
